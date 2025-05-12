@@ -1,7 +1,21 @@
-<p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    Id asperiores ab beatae magnam nam, quas eos maxime molestias 
-    ducimus commodi ut rem reprehenderit, natus nesciunt aspernatur
-    consequatur iusto iure voluptatem?</p> 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action = "index.php" method="POST">
 
+    <label for="phone">phone:</label>
+        <input type="phone" id="phone"
+        placeholder="+420 606 255 937"
+        pattern = "[+;0-9]{3} [0-9]{3} [0-9]{3} [0-9]{3}"
+        required>
 
-<!-- 15:17-->
+        <input type="submit">
+        <br> 
+    </form>
+</body>
+</html>
