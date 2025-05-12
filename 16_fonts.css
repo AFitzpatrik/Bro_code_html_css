@@ -1,0 +1,24 @@
+@font-face {
+    src: url(fonts/Grandstander-VariableFont_wght.ttf);
+    font-family: Grandstander-VariableF;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 1.9em;
+}
+
+
+h1{font-family: Grandstander-VariableF;,
+    'Franklin Gothic Medium',
+    'Arial Narrow',
+    Arial,
+    sans-serif;}
+
+p{font-family: 'Grandstander-VariableF',
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+    'Lucida Sans',
+    'DejaVu Sans',
+    sans-serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
