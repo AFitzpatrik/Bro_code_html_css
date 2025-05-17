@@ -1,0 +1,20 @@
+#box1{
+    width: 200px;
+    height: 200px;
+    background-color: royalblue;
+    position: sticky;
+    left: 0px;
+    top: 0px;
+}
+
+
+#box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(228, 45, 31);
+    position: absolute;
+    top:50px;
+    left: 50px;
+}
+
+
