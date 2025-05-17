@@ -1,0 +1,7 @@
+#container{
+    border: solid 1px black;
+}
+
+#container + p{
+    background-color: red;
+}
